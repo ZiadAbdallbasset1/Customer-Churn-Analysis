@@ -1,10 +1,10 @@
 # Customer Churn Analysis & Prediction
 
-#📌 Overview
+# Overview
 This project focuses on analyzing customer churn patterns, visualizing key insights, and predicting potential churners among new joiners.
 It combines SQL-based data cleaning, Power BI dashboards, and a machine learning model to deliver both descriptive and predictive insights.
 
-#🛠️ Workflow
+# Workflow
 1. Data Cleaning (SQL)
 Extracted raw customer data from the database.
 Removed duplicates, handled missing values, and standardized formats.
@@ -26,12 +26,12 @@ Steps:
   Selected the best-performing model based on accuracy, precision, recall, and AUC score.
   Output: Probability score for each new customer’s churn likelihood.
 
-#📊 Deliverables
+# Deliverables
 SQL Scripts – Data cleaning & transformation.
 Power BI Dashboard – Interactive churn analysis.
 ML Model & Predictions – Predictive results for new joiners.
 
-#🚀 How to Use
+# How to Use
 SQL
 Run data_cleaning.sql to process raw data.
 Power BI
@@ -39,12 +39,12 @@ Open churn_dashboard.pbix to explore the analysis.
 ML Model
 Use predict_new_customers.py to generate churn predictions.
 
-#📈 Insights
+# Insights
 Identified top churn drivers (e.g., low engagement, billing issues).
 Found high-risk customer segments.
 Provided actionable recommendations for retention strategies.
 
-#🔮 Future Improvements
+# Future Improvements
 Integrate model predictions directly into Power BI.
 Automate daily data refresh and churn alerts.
 Test additional advanced models (e.g., deep learning, survival analysis).
