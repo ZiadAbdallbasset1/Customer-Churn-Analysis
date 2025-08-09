@@ -99,3 +99,4 @@ INTO Customer_Data_Cleaned
 FROM Customer_Data
 
 
+
