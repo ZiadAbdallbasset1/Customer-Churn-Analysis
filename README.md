@@ -11,14 +11,14 @@ Removed duplicates, handled missing values, and standardized formats.
 Performed feature engineering (e.g., customer tenure, usage metrics).
 Stored the cleaned dataset for analysis.
 
-#2. Exploratory Data Analysis (Power BI)
+2. Exploratory Data Analysis (Power BI)
 Created interactive dashboards to explore:
   Churn rates by customer segment, region, and tenure.
   Usage behavior differences between churners and non-churners.
   Revenue impact of churn.
   Enabled filtering and drill-down for detailed insights.
 
-#3. Predictive Modeling (Machine Learning)
+3. Predictive Modeling (Machine Learning)
 Built an ML model to predict churn risk for new joiners.
 Steps:
   Data preprocessing (encoding, scaling, balancing classes).
